@@ -6,4 +6,4 @@ if (temp >= 30) {
     print("Warm")
 } else if (temp < 20){
     print("Cold")
-}
+} 
