@@ -6,4 +6,4 @@ if (all(nums > 50)) {
     print ("Some are above 50")
 } else {
     print("None are above 50")
-}
+} 
