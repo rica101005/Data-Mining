@@ -8,4 +8,4 @@ if (age < 13) {
     print("Adult")
 } else if (age >= 60) {
     print("Senior")
-}
+} 
