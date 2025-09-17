@@ -4,4 +4,4 @@ if (all(scores > 60)) {
     print("All students passed.")
  } else if (any(scores < 60)) {
     print("At least one student failed.")
- } 
+ }
