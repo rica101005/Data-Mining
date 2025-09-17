@@ -6,4 +6,4 @@ if (all(nums %% 2 == 0)) {
   print("Some numbers are even.")
 } else {
   print("None numbers are even.")
-} 
+}
